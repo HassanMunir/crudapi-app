@@ -2,9 +2,9 @@
   "name": "crudapi-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "type": "module",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "jest",
     "dev": "node server.js"
   },

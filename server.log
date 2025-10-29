@@ -1,0 +1,6 @@
+nohup: ignoring input
+
+> crudapi-app@1.0.0 start
+> node server.js
+
+Server has started on port: 3000
